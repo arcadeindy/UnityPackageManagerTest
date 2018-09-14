@@ -1,0 +1,12 @@
+{
+    "dependencies": {}, 
+    "description": "Unity Package Manager Test", 
+    "displayName": "Unity Package Manager Test", 
+    "name": "coffee.upm.test", 
+    "repository": {
+        "type": "git", 
+        "url": "ssh://git@github.com/mob-sakai/UnityPackageManagerTest.git"
+    }, 
+    "unity": "2018.3",
+    "version": "1.0.0"
+}
